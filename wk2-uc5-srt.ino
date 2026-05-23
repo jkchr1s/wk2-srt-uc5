@@ -1,3 +1,5 @@
+// thanks stoop for your help! :)
+
 #include <FlexCAN_T4.h>                                 // include FlexCAN
 
 FlexCAN_T4<CAN1, RX_SIZE_256, TX_SIZE_16> Can0;         // Can0: IHS Bus from vehicle
