@@ -1,5 +1,7 @@
 // big thanks to stoopalini!!!
 //
+// THIS CODE IS NOT YET TESTED!!!
+//
 //0x3A0 = Drive mode button presses from the uConnect 5 system. One time event, not continual broadcast
 //0x2FA = Byte 7 indicates the currently active drive mode enabled, except for ECO. Continually broadcasted value
 //0x3E8 = VehConfig1 (Request Code 0122) message parameters from BCM
